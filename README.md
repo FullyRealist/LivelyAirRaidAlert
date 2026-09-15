@@ -1,4 +1,4 @@
-[See this text in Ukrainian 🇺🇦](https://github.com/FullyRealist/LivelyAirRaidAlert/blob/main/README.md)
+[See this text in Ukrainian 🇺🇦](https://github.com/FullyRealist/LivelyAirRaidAlert/blob/main/README_ua.md)
 # Air Raid Alerts - Lively Wallpaper Integration
 
 A custom adaptation of data and visual materials from **alerts.in.ua** and **neptun.in.ua** designed specifically for use as an interactive web-wallpaper in **Lively Wallpaper**.
