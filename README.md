@@ -1,7 +1,7 @@
-[See this text in Ukrainian 🇺🇦](https://github.com/FullyRealist/LivelyAirRaidAlert/blob/main/README_ua.md)
+[See this text in Ukrainian 🇺🇦](README_ua.md)
 # Map of Air Raid Alerts - Lively Wallpaper Integration
 
-A custom adaptation of data and visual materials from **alerts.in.ua** and **neptun.in.ua** designed specifically for use as an interactive web-wallpaper in **Lively Wallpaper**.
+A custom adaptation of data and visual materials from **alerts.in.ua** and **neptun.in.ua** designed specifically for use as an interactive web-wallpaper in **[Lively Wallpaper](https://github.com/rocksdanister/lively/releases/tag/v2.2.1.0)**.
 
 ## 📌 Overview
 
@@ -14,13 +14,16 @@ This project provides a seamless way to display live data and status updates dir
 * **Lively Wallpaper Compatible:** Fully optimized for low resource consumption, seamless rendering, and smooth performance within the Lively ecosystem.
 * **Clean UI:** Adapted visual elements tailored specifically for high desktop background visibility.
 
-## 🚀 Installation & Usage
+## 🧭 Installation & Usage
 
-1. Download or clone this repository to your local machine.
-2. Open **Lively Wallpaper**.
-3. Click on **Add Wallpaper** (+ icon).
-4. Drag and drop this project folder (containing the `index.html` file) into the Lively window.
-5. Set the title/description if desired and click **OK**.
+1. Download the archive (ZIP file) from this repository.
+2. Open [Lively Wallpaper](https://github.com/rocksdanister/lively/releases/tag/v2.2.1.0).
+3. Drag and drop the downloaded archive (ZIP file) directly into the Lively window. The program will automatically extract and configure everything for you.
+
+### 🔰 Versions
+📢 **Alerts** - Simple version of alert map: shows area, level of danger and possibly cause of threat. Provided by [alerts.in.ua](https://alerts.in.ua)
+
+🚀 **Neptun** - Advanced version of the alert map: shows area, level of danger, cause of threat and if possible movement of drones etc. Provided by [neptun.in.ua](https://neptun.in.ua)
 
 ## ⚖️ License & Disclaimer
 
