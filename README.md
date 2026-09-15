@@ -22,8 +22,20 @@ This project provides a seamless way to display live data and status updates dir
 
 ### 🔰 Versions
 📢 **Alerts** - Simple version of alert map: shows area, level of danger and possibly cause of threat. Provided by [alerts.in.ua](https://alerts.in.ua)
+<details>
+  <summary>Take a look at Alerts</summary>
+  <p align="center">
+    <img width="1920" height="1080" alt="Версія Alerts" src="https://github.com/user-attachments/assets/731826e9-c218-430b-af78-ff1b3d035fdd" />
+  </p>
+</details>
 
 🚀 **Neptun** - Advanced version of the alert map: shows area, level of danger, cause of threat and if possible movement of drones etc. Provided by [neptun.in.ua](https://neptun.in.ua)
+<details>
+  <summary>Take a look at Neptun</summary>
+  <p align="center">
+    <img width="1920" height="1080" alt="Версія Neptun" src="https://github.com/user-attachments/assets/bf61b20a-6681-4b3f-989f-580e277014d6" />
+  </p>
+</details>
 
 ## ⚖️ License & Disclaimer
 
