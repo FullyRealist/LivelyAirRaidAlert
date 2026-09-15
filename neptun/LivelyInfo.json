@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "NEPTUN - Air raid Alert",
+  "Thumbnail": "ipo35xik.yfv.jpg",
+  "Preview": "j2cynrpb.1i5.gif",
+  "Desc": "<b>NEPTUN</b> is a Ukrainian platform for real-time monitoring of air alerts and threats, created for the safety of Ukrainian citizens. The project operates 24/7, collecting, analyzing and visualizing information about air alerts, the movement of shaheeds, missiles and other threats on an interactive map.\r\n\r\nAdapted for Lively Wallpaper by FullyRealist\r\n",
+  "Author": "NEPTUN & FullyRealist",
+  "License": "AS IS",
+  "Contact": "https://neptun.in.ua/",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
