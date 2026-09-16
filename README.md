@@ -37,6 +37,12 @@ This project provides a seamless way to display live data and status updates dir
   </p>
 </details>
 
+### 🐧  What about Linux?
+
+Since the community has had quite a few questions about porting it to Linux, I have some great news. A guy who [posted on Threads](https://www.threads.com/@p5ych0pat/post/DdUtDiUCCce) created his own port of the Neptun version for KDE, and it’s awesome. 
+
+Unfortunately, I haven’t been able to test it myself, so if you’re interested, here’s a link to his [repository](https://github.com/p5ych0/plasma-air-raid-map)
+
 ## ⚖️ License & Disclaimer
 
 This project uses a custom license focused on absolute non-liability and strict respect for original copyrights. 
