@@ -43,6 +43,17 @@ Since the community has had quite a few questions about porting it to Linux, I h
 
 Unfortunately, I haven’t been able to test it myself, so if you’re interested, here’s a link to his [repository](https://github.com/p5ych0/plasma-air-raid-map)
 
+### ⚙️ What about support for Wallpaper Engine?
+
+There’s good news here, too: I’ve reworked the version for WE and uploaded it to the Steam Workshop 🥳
+<details>
+  <summary>Download</summary>
+  
+🚀 [Neptun version](https://steamcommunity.com/sharedfiles/filedetails/?id=3802625490)
+  
+📢 [Alerts version](https://steamcommunity.com/sharedfiles/filedetails/?id=3802599701)
+</details>
+
 ## ⚖️ License & Disclaimer
 
 This project uses a custom license focused on absolute non-liability and strict respect for original copyrights. 
