@@ -14,3 +14,10 @@ iframe {
   height: 100vh;
   border: none;
 }
+#overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  background: transparent;
+  pointer-events: none;
+}
