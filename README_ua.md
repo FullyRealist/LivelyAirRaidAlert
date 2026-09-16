@@ -37,11 +37,23 @@
   </p>
 </details>
 
-### 🐧А як щодо Linux?
+### 🐧 А як щодо Linux?
 
 У зв’язку з тим, що у спільноти виникло чимало запитань щодо адаптації під Linux, у мене є чудова новина. Хлопець із [допису в Threads](https://www.threads.com/@p5ych0pat/post/DdUtDiUCCce) створив власну адаптацію версії Neptun під KDE, і це круто. 
 
 На жаль, не маю можливості протестувати це власноруч, тому, якщо у вас є бажання, залишу посилання на його [репозиторій](https://github.com/p5ych0/plasma-air-raid-map)
+
+### ⚙️ А як щодо підтримки Wallpaper Engine?
+
+І тут теж є хороші новини: я переадаптував та виклав у майстерню Steam версію для WE 🥳
+
+<details>
+  <summary>Завантажити</summary>
+
+🚀 [Версія Neptun](https://steamcommunity.com/sharedfiles/filedetails/?id=3802625490)
+
+📢 [Версія Alerts](https://steamcommunity.com/sharedfiles/filedetails/?id=3802599701)
+</details>
 
 ## ⚖️ Ліцензія та відмова від відповідальності
 
